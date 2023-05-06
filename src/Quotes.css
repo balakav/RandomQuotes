@@ -1,0 +1,39 @@
+.quote-container {
+    text-align: center;
+    margin-top: 130px;
+    border: 1px solid black;
+    height: 600px;
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+    display:inline-flexbox;
+    background-color:aqua;
+  }
+  
+  .quote-text {
+    margin-top: 200px;
+    font-size: 24px;
+    color:black;
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+  
+  .quote-author {
+    font-size: 18px;
+    font-weight: bold;
+    color:red;
+  }
+  
+  .button {
+    background-color:brown;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .head{
+    color:blue;
+  }
